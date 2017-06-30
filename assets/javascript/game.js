@@ -1,4 +1,5 @@
-
+    //I was not able to get the wins to reset and count
+    //correctly
       var wins = 0;
       var guessesLeft = 9;
       var guesses = 0;
